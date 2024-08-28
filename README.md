@@ -1,1 +1,3 @@
 # FIFO-Memory
+
+In Verilog, FIFO (First-In-First-Out) memory is a hardware configuration for data buffering. It stores data as it arrives and displays it in the same order. The job specification will likely include information such as the size of the FIFO, data width, clock frequency, and interface signals for reading and writing data Additionally, it may specify additional features such as full/empty flags, overflow/underflow detection , and integration methods. The goal of the project will be to design, simulate, and possibly manufacture a FIFO memory module that meets the specified requirements.
